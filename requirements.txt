@@ -1,0 +1,4 @@
+Flask==3.0.0
+mysqlclient==2.2.1
+snowflake-id==0.0.5
+SQLAlchemy==2.0.25
